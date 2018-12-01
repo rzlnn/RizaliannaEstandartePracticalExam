@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "177084328270",
+    "firebase_url": "https://rizaliannaestandarteexam.firebaseio.com",
+    "project_id": "rizaliannaestandarteexam",
+    "storage_bucket": "rizaliannaestandarteexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177084328270:android:292e08d8d32bc419",
+        "android_client_info": {
+          "package_name": "estandartee.rizalianna.exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177084328270-1k4g2r3katmajp8orb2fs81r5h1vahlp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "estandartee.rizalianna.exam",
+            "certificate_hash": "01107bed0f9448327a26d91492e2d971eff270ff"
+          }
+        },
+        {
+          "client_id": "177084328270-aid46qci9of11rersjcbcv4obbfn97nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChbvooKNUPGYLfInGD9bW-TJtecpWgNgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177084328270-aid46qci9of11rersjcbcv4obbfn97nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PRACTICAL EXAM NO. 2</string>
+    <string name="Firstname">Firstname</string>
+    <string name="Surname">Surname</string>
+    <string name="FirstGrade">Exam 1 Grade</string>
+    <string name="SecondGrade">Exam 2 Grade</string>
+</resources>
